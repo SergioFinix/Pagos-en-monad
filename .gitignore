@@ -1,1 +1,25 @@
-/MonadPaymentRails
+# Project Files
+!/MonadPaymentRails
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumb.db
+Thumbs.db
+
+# Environment variables
+.env
+
+# Distribution / packaging
+node_modules/
+dist/
+build/
+*.zip
